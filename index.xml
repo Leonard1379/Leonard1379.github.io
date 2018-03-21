@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 19 Mar 2018 13:25:48 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://leonard1379.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Test</title>
-      <link>https://leonard1379.github.io/post/test/</link>
-      <pubDate>Mon, 19 Mar 2018 13:25:48 +0800</pubDate>
-      
-      <guid>https://leonard1379.github.io/post/test/</guid>
-      <description> </description>
-    </item>
     
     <item>
       <title>About</title>
@@ -41,6 +32,17 @@ Setup Some fun facts about Hugo:
       
       <guid>https://leonard1379.github.io/contact/</guid>
       <description> First Name  Last Name  E-Mail  City  State AL CA IL      Send   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://leonard1379.github.io/post/turkey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leonard1379.github.io/post/turkey/</guid>
+      <description>#土耳其行程攻略 ##目的地 * 伊斯坦布尔 * 卡帕多西亚 * 棉花堡 * 赛尔丘克
+####1.伊斯坦布尔 * 蓝色清真寺 * 博斯普鲁斯海峡 * 大巴扎、埃及市场 * 旧下水道遗址 ####2.赛尔丘克 * 以弗所古城 * 圣彼得故居 * 阿尔忒弥斯神殿遗址 ####3.费特希耶 * 死海 * 滑翔伞 ##交通
+##行程计划</description>
     </item>
     
   </channel>
